@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe.config
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.pdb
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.exe
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.pdb
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.csprojResolveAssemblyReference.cache
+F:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe.config
+F:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.exe
+F:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.pdb
+D:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe.config
+D:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.exe
+D:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.pdb
+D:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.csprojResolveAssemblyReference.cache
+D:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe
+D:\7a\1er parcial\Programacion de aplicaciones\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.pdb
